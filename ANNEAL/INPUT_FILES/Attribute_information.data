@@ -1,0 +1,3 @@
+family,product-type,product-type,carbon,hardness,temper_rolling,condition,formability,strength,non-ageing,surface-finish,surface-quality,enamelability,bc,bf,bt,bw/me,m,chrom,phos,cbond,exptl,ferro,blue/bright/varn/clean,lustre,shape,thick,width,len,oil,bore,packing,ClassLabel
+String,String,String,Integer,Integer,String,String,String,Integer,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,String,Float,Float,Float,String,String,String,String, 
+
