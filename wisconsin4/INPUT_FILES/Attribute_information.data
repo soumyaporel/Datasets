@@ -1,0 +1,3 @@
+ClumpThickness, CellSize, CellShape, MarginalAdhesion, EpithelialSize, BareNuclei, BlandChromatin, NormalNucleoli, Mitoses,ClassLabel
+Integer,Integer,Integer,Integer,Integer,Integer,Integer,Integer,Integer,String,
+

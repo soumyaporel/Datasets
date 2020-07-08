@@ -1,0 +1,3 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,ClassLabel
+Float,Binary,Float,Float,Float,Binary,Float,Float,Binary,Float,Float,Float,Float,String,
+

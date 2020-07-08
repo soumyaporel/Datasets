@@ -1,0 +1,50 @@
+1:IF #|2.65,#|#|#|#|#|110|#|#|#|#|#|10|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.969697
+2:IF #|#|#|#|#|#|#|#|#|#| 15,#|#|10|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.121212125
+3:IF #|#,2.65|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.9230769 and Coverage=0.6666667
+4:IF #|#|#|#|#|#|#|#|#|#|#|011|#|#|#|#| THEN  bad With Confidence=0.516129 and Coverage=0.8888889
+
+1:IF #|#,3.25|#|#|#|#|#|#|#|01|#,10.5|#|#|#|#|#| THEN  bad With Confidence=1.0 and Coverage=0.44444445
+2:IF #|#|#|#|001|#|#|#|3.5,#|#|#|#|#|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.42424244
+3:IF #|#,2.65|#|#|110|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.9166667 and Coverage=0.6111111
+4:IF #|2.65,#|#|#|#|#|110|#|#|#|#|#|#|#|#|#| THEN  good With Confidence=0.9117647 and Coverage=0.93939394
+
+1:IF #|2.65,#|#|#|#|#|#|#|#|#|10.5,#|#|#|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.8181818
+2:IF #|#|#|#|#|#|#|#|#|01|#,10.5|011|#|#|#|#| THEN  bad With Confidence=1.0 and Coverage=0.6111111
+3:IF #|#|#, 2.0|#|#|#|#|#|#|#|#|#|#|#|#|011| THEN  bad With Confidence=1.0 and Coverage=0.3888889
+4:IF #|2.9,#|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  good With Confidence=0.8787879 and Coverage=0.8787879
+5:IF #|#|#|#|#|#|#|#|#,3.5|#|#|011|#|#|#|011| THEN  bad With Confidence=0.65 and Coverage=0.7222222
+
+1:IF #|#|#|#|#|#|#|#|#|#|#,10.5|011|#|#|#|#| THEN  bad With Confidence=1.0 and Coverage=0.5555556
+2:IF #|#|#|#|#|#|#|#|3.5,#|#|#|#|#|#|#|#| THEN  good With Confidence=0.93333334 and Coverage=0.42424244
+3:IF #|#,2.65|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.84615386 and Coverage=0.6111111
+4:IF #|2.65,#|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  good With Confidence=0.8108108 and Coverage=0.90909094
+
+1:IF #|3.25,#|#|#|#|#|#|#|#|#|#|#|10|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.8484849
+2:IF #|#|#,2.25|#|#|#|011|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=1.0 and Coverage=0.3888889
+3:IF #|#|#|#|#|#|#|#|3.5,#|#|#|#|#|#|#|#| THEN  good With Confidence=0.9411765 and Coverage=0.4848485
+4:IF #|#|#|#|#|#|011|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.8666667 and Coverage=0.7222222
+
+1:IF #|#|#|#|#|#|#|#|#|#| 15,#|#|#|#|10|#| THEN  good With Confidence=1.0 and Coverage=0.121212125
+2:IF #|#|#|#|#|#|#|#|#|#|#,10.5|101|#|#|#|#| THEN  bad With Confidence=0.9166667 and Coverage=0.6111111
+3:IF #|2.65,#|#|#|#|#|#|#|#|#|#|#|#|#|10|#| THEN  good With Confidence=0.8611111 and Coverage=0.93939394
+4:IF #|#,2.9|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.8125 and Coverage=0.7222222
+5:IF #|#|#|#|#|#|#|#|#,3.5|#|#|101|#|#|#|#| THEN  bad With Confidence=0.625 and Coverage=0.8333333
+
+1:IF #|3.25,#|#|#|#|#|#|#|#|#|#|#|#|101|#|#| THEN  good With Confidence=1.0 and Coverage=0.7878788
+2:IF #|#|#|#|#|#|011|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.9285714 and Coverage=0.7222222
+3:IF #|2.9,#|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  good With Confidence=0.8787879 and Coverage=0.8787879
+4:IF #|#|#|#|#|#|101|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.6956522 and Coverage=0.8888889
+
+1:IF #|#|#|#|#|#|#|#|#|01|#,10.5|011|#|#|#|#| THEN  bad With Confidence=1.0 and Coverage=0.6666667
+2:IF #|#|2.25,#|#|#|#|110|#|#|#|9.5,#|#|#|#|10|#| THEN  good With Confidence=0.8888889 and Coverage=0.9411765
+3:IF #|#|#|#|#|#|#|#|#|01|#|#|#|#|#|#| THEN  bad With Confidence=0.8181818 and Coverage=0.5
+4:IF #|#|#|#|#|#|#|#|#|#|#|011|#|#|#|#| THEN  bad With Confidence=0.5483871 and Coverage=0.9444444
+
+1:IF #|2.65,#|#|#|#|#|110|#|#|#|10.5,#|#|#|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.8235294
+2:IF #|4.15,#|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  good With Confidence=0.95238096 and Coverage=0.5882353
+3:IF #|#,4.15|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.56666666 and Coverage=0.9444444
+
+1:IF #|#|3.25,#|#|#|#|#|#|3.5,#|#|#|#|#|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.7941176
+2:IF #|#|#|#|#|#|110|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.72727275 and Coverage=0.8888889
+3:IF #|#|2.25,#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  good With Confidence=0.7 and Coverage=0.8235294
+

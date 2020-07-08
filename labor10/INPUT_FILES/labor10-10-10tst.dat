@@ -1,0 +1,6 @@
+3, 3.0, 2.0, 2.5, tc, 40, none,?, 5, no, 10, below_average, yes, half, yes, full, bad
+2, 4.0, 4.0,?, none, 40, none,?, 3,?, 10, below_average, no, none,?, none, bad
+3, 4.5, 4.5, 5.0,?, 40,?,?,?,?, 12, average,?, half, yes, half, good
+1, 5.0,?,?,?, 40,?,?, 2,?, 11, average,?,?, yes,?, good
+1, 3.0,?,?, none, 36,?,?, 10, no, 11, generous,?,?,?,?, good
+

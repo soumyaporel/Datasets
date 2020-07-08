@@ -1,0 +1,6 @@
+1, 2.1,?,?, tc, 40, ret_allw, 2, 3, no, 9, below_average, yes, half,?, none, bad
+2, 4.0, 5.0,?, tcf, 35,?, 13, 5,?, 15, generous,?,?,?,?, good
+1, 2.0,?,?, tc, 40, ret_allw, 4, 0, no, 11, generous, no, none, no, none, bad
+2, 4.6, 4.6,?, tcf, 38,?,?,?,?,?,?, yes, half,?, half, good
+2, 5.7, 4.5,?, none, 40, ret_allw,?,?,?, 11, average, yes, full, yes, full, good
+

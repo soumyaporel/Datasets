@@ -1,0 +1,26 @@
+1:IF #|#, 0.0|#|#| 1.0,#|#, 0.0| 1.0,#| THEN  2 With Confidence=1.0 and Coverage=0.5217391
+2:IF #,0.0|#|#, 0.0|#, 0.0|#|#|#| THEN  1 With Confidence=1.0 and Coverage=0.18181819
+3:IF 1.0,#|#|#, 0.0|#|#, 0.0|#, 0.0|#| THEN  5 With Confidence=1.0 and Coverage=0.12765957
+4:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#, 0.0| THEN  8 With Confidence=1.0 and Coverage=0.04255319
+5:IF #,0.0| 1.0,#|#|#|#, 0.0|#, 0.0|#| THEN  9 With Confidence=1.0 and Coverage=0.022222223
+6:IF #,0.0| 1.0,#|#|#| 1.0,#|#, 0.0|#| THEN  8 With Confidence=1.0 and Coverage=0.021276595
+7:IF 1.0,#|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  7 With Confidence=0.92105263 and Coverage=0.6730769
+8:IF 1.0,#|#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.8947368 and Coverage=0.7234042
+9:IF #,0.0| 1.0,#|#|#|#, 0.0|#|#| THEN  4 With Confidence=0.84090906 and Coverage=0.8043478
+10:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.83870965 and Coverage=0.65
+11:IF #|#|#| 1.0,#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.81578946 and Coverage=0.67391306
+12:IF #|#, 0.0| 1.0,#| 1.0,#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=0.8095238 and Coverage=0.65384614
+13:IF #|#|#, 0.0|#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.8 and Coverage=0.7619048
+14:IF #|#|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.7708333 and Coverage=0.8043478
+15:IF #,0.0|#, 0.0|#|#, 0.0|#|#|#| THEN  1 With Confidence=0.70731705 and Coverage=0.8787879
+16:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| THEN  8 With Confidence=0.6944444 and Coverage=0.5319149
+17:IF 1.0,#|#, 0.0|#|#, 0.0|#|#|#| THEN  7 With Confidence=0.68421054 and Coverage=0.75
+18:IF #,0.0| 1.0,#|#|#|#| 1.0,#|#| THEN  4 With Confidence=0.66129035 and Coverage=0.8913044
+19:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#|#, 0.0|#|#| THEN  9 With Confidence=0.627907 and Coverage=0.6
+20:IF #|#|#, 0.0|#|#, 0.0|#|#| THEN  5 With Confidence=0.6268657 and Coverage=0.89361703
+21:IF 1.0,#| 1.0,#| 1.0,#|#|#, 0.0|#| 1.0,#| THEN  9 With Confidence=0.6086956 and Coverage=0.62222224
+22:IF #|#| 1.0,#|#|#|#, 0.0|#| THEN  2 With Confidence=0.6 and Coverage=0.84782606
+23:IF 1.0,#|#|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.5555556 and Coverage=0.7692308
+24:IF #|#, 0.0| 1.0,#|#|#|#|#, 0.0| THEN  7 With Confidence=0.5375 and Coverage=0.8269231
+25:IF #|#|#| 1.0,#| 1.0,#|#|#| THEN  8 With Confidence=0.32231405 and Coverage=0.82978725
+

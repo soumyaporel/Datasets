@@ -1,0 +1,53 @@
+1:IF #|#|#,2.45|#| THEN  Iris-setosa With Confidence=1.0 and Coverage=1.0
+2:IF 6.25,6.75|#|#|0.8,1.75| THEN  Iris-versicolor With Confidence=1.0 and Coverage=0.24444444
+3:IF #|#|2.45,4.95|0.8,1.75| THEN  Iris-versicolor With Confidence=0.9767442 and Coverage=0.93333334
+4:IF 5.55,#|#|#|0.8,#| THEN  Iris-virginica With Confidence=0.556962 and Coverage=0.9777778
+
+1:IF #|#|#,2.45|#| THEN  Iris-setosa With Confidence=1.0 and Coverage=1.0
+2:IF #|2.8499999999999996,#|2.45,4.85|#| THEN  Iris-versicolor With Confidence=1.0 and Coverage=0.42222223
+3:IF #|#|2.45,4.95|#,1.75| THEN  Iris-versicolor With Confidence=0.9767442 and Coverage=0.93333334
+4:IF 5.55,#|#|#|0.8,#| THEN  Iris-virginica With Confidence=0.556962 and Coverage=0.9777778
+
+1:IF #|#|#|#,0.75| THEN  Iris-setosa With Confidence=1.0 and Coverage=1.0
+2:IF #|3.05,#|2.45,4.85|#| THEN  Iris-versicolor With Confidence=1.0 and Coverage=0.15555556
+3:IF #|#|2.45,4.95|0.75,1.75| THEN  Iris-versicolor With Confidence=0.9767442 and Coverage=0.93333334
+4:IF #|#|4.55,#|#| THEN  Iris-virginica With Confidence=0.7586207 and Coverage=0.9777778
+
+1:IF #|#|#|#,0.8| THEN  Iris-setosa With Confidence=1.0 and Coverage=1.0
+2:IF #|3.05,3.3499999999999996|2.45,5.05|#| THEN  Iris-versicolor With Confidence=1.0 and Coverage=0.15555556
+3:IF #|#|#,5.05|0.8,1.75| THEN  Iris-versicolor With Confidence=0.97727275 and Coverage=0.95555556
+4:IF 5.55,#|2.25,#|#|#| THEN  Iris-virginica With Confidence=0.556962 and Coverage=0.9777778
+
+1:IF #|#|#,2.45|#| THEN  Iris-setosa With Confidence=1.0 and Coverage=1.0
+2:IF 6.55,#|#|#,5.05|#| THEN  Iris-versicolor With Confidence=1.0 and Coverage=0.15555556
+3:IF #|3.05,3.3499999999999996|2.45,4.95|#| THEN  Iris-versicolor With Confidence=1.0 and Coverage=0.15555556
+4:IF #|#|#,4.95|0.8,1.75| THEN  Iris-versicolor With Confidence=0.9767442 and Coverage=0.93333334
+5:IF 5.55,#|#|2.45,#|#| THEN  Iris-virginica With Confidence=0.556962 and Coverage=0.9777778
+
+1:IF #|#|#|#,0.8| THEN  Iris-setosa With Confidence=1.0 and Coverage=1.0
+2:IF #|#|#,4.95|0.8,1.75| THEN  Iris-versicolor With Confidence=1.0 and Coverage=0.95555556
+3:IF 5.55,#|#|#|#| THEN  Iris-virginica With Confidence=0.5487805 and Coverage=1.0
+
+1:IF #|#|#|#,0.8| THEN  Iris-setosa With Confidence=1.0 and Coverage=1.0
+2:IF 5.55,6.55|#|4.95,#|#| THEN  Iris-virginica With Confidence=1.0 and Coverage=0.42222223
+3:IF #|2.75,3.05|#|1.75,#| THEN  Iris-virginica With Confidence=1.0 and Coverage=0.42222223
+4:IF #|#|2.45,4.85|#| THEN  Iris-versicolor With Confidence=0.93333334 and Coverage=0.93333334
+5:IF #,7.05|#|#|0.8,1.75| THEN  Iris-versicolor With Confidence=0.9166667 and Coverage=0.9777778
+6:IF 5.65,#|#|2.45,#|#| THEN  Iris-virginica With Confidence=0.5890411 and Coverage=0.95555556
+
+1:IF #|#|#,2.5999999999999996|#| THEN  Iris-setosa With Confidence=1.0 and Coverage=1.0
+2:IF 6.55,7.05|#|#,5.05|#| THEN  Iris-versicolor With Confidence=1.0 and Coverage=0.17777778
+3:IF #|#|2.5999999999999996,4.95|0.8,1.75| THEN  Iris-versicolor With Confidence=0.9767442 and Coverage=0.93333334
+4:IF 5.55,#|#|2.5999999999999996,#|#| THEN  Iris-virginica With Confidence=0.54320985 and Coverage=0.9777778
+
+1:IF #|#|#,2.45|#| THEN  Iris-setosa With Confidence=1.0 and Coverage=1.0
+2:IF 5.15,#|#|2.45,4.95|#,1.75| THEN  Iris-versicolor With Confidence=1.0 and Coverage=0.8666667
+3:IF #|2.25,3.05|#|1.75,#| THEN  Iris-virginica With Confidence=1.0 and Coverage=0.5777778
+4:IF #|2.8499999999999996,#|#|0.8,1.75| THEN  Iris-versicolor With Confidence=1.0 and Coverage=0.44444445
+5:IF #|#|2.45,4.85|#| THEN  Iris-versicolor With Confidence=0.9318182 and Coverage=0.9111111
+6:IF 5.15,#|#|#|#| THEN  Iris-virginica With Confidence=0.45360824 and Coverage=0.9777778
+
+1:IF #|#|#|#,0.8| THEN  Iris-setosa With Confidence=1.0 and Coverage=1.0
+2:IF #|#|2.45,5.05|0.8,1.75| THEN  Iris-versicolor With Confidence=0.95555556 and Coverage=0.95555556
+3:IF 5.55,#|#|2.45,#|#| THEN  Iris-virginica With Confidence=0.556962 and Coverage=0.9777778
+

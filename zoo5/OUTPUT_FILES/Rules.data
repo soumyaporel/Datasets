@@ -1,0 +1,82 @@
+1:IF #|#|#|01|#|#|#|#|#|#|#|#|#|#|#|#| THEN  1 With Confidence=1.0 and Coverage=1.0
+2:IF #|01|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=1.0
+3:IF #|#|#|#|#|#|#|#|#|01|#|01|#|#|#|#| THEN  4 With Confidence=1.0 and Coverage=1.0
+4:IF #|#|10|#|#|10|#|#|#|#|#|#|4.5,#|#|#|#| THEN  6 With Confidence=1.0 and Coverage=1.0
+5:IF #|#|#|#|#|#|#|01|#|#|#|10|#,1.0|#|#|#| THEN  3 With Confidence=1.0 and Coverage=0.6
+6:IF #|#|#|10|#|10|#|01|#|#|#|#|#|#|#|#| THEN  3 With Confidence=1.0 and Coverage=0.6
+7:IF #|#|#|#|10|#|#|#|10|#|#|#|#|#|#|#| THEN  7 With Confidence=0.9 and Coverage=1.0
+8:IF #|#|10|#|#|#|#|01|01|#|#|#|1.0,#|#|#|#| THEN  5 With Confidence=0.75 and Coverage=1.0
+
+1:IF #|#|#|01|#|#|#|#|#|#|#|#|#|#|#|#| THEN  1 With Confidence=1.0 and Coverage=1.0
+2:IF #|01|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=1.0
+3:IF #|#|#|10|#|#|#|#|#|#|#|01|#|#|#|#| THEN  4 With Confidence=1.0 and Coverage=1.0
+4:IF #|#|10|#|#|#|#|#|#|10|#|#|5.0,#|#|#|#| THEN  6 With Confidence=1.0 and Coverage=1.0
+5:IF #|#|#|#|#|#|#|#|01|#|#|10|#,1.0|#|#|#| THEN  3 With Confidence=1.0 and Coverage=0.75
+6:IF #|#|#|#|10|#|#|#|10|#|#|#|#|#|#|#| THEN  7 With Confidence=0.8181818 and Coverage=1.0
+7:IF #|#|#|10|#|#|#|01|#|#|#|#|1.0,#|#|#|#| THEN  5 With Confidence=0.75 and Coverage=1.0
+
+1:IF #|10|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=1.0
+2:IF #|#|#|01|#|#|#|#|#|#|#|#|#|#|#|#| THEN  1 With Confidence=1.0 and Coverage=1.0
+3:IF #|#|#|10|#|#|#|#|#|#|#|01|#|#|#|#| THEN  4 With Confidence=1.0 and Coverage=1.0
+4:IF #|#|#|10|#|#|#|01|#|#|#|#|#|01|#|#| THEN  5 With Confidence=1.0 and Coverage=1.0
+5:IF #|#|#|#|#|10|#|#|#|#|#|#|5.5,#|01|#|#| THEN  6 With Confidence=1.0 and Coverage=1.0
+6:IF #|#|#|#|01|#|#|#|01|#|#|#|#|#|#|#| THEN  7 With Confidence=0.8181818 and Coverage=1.0
+7:IF 10|#|#|#|#|#|#|01|#|#|#|10|#|#|#|#| THEN  3 With Confidence=0.5 and Coverage=0.75
+
+1:IF #|#|#|01|#|#|#|#|#|#|#|#|#|#|#|#| THEN  1 With Confidence=1.0 and Coverage=1.0
+2:IF #|01|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=1.0
+3:IF #|#|10|#|#|#|#|#|#|#|#|01|#|#|#|#| THEN  4 With Confidence=1.0 and Coverage=1.0
+4:IF #|#|#|#|#|10|#|#|#|#|#|#|4.5,#|#|#|#| THEN  6 With Confidence=1.0 and Coverage=1.0
+5:IF #|#|10|#|#|#|#|#|01|#|#|#|#|10|#|#| THEN  5 With Confidence=1.0 and Coverage=0.75
+6:IF #|#|#|#|#|#|#|#|01|#|#|10|#, 0|#|#|#| THEN  3 With Confidence=1.0 and Coverage=0.5
+7:IF #|#|#|#|#|#|#|#|10|#|#|#|#|#|#|#| THEN  7 With Confidence=0.5625 and Coverage=1.0
+
+1:IF #|#|#|01|#|#|#|#|#|#|#|#|#|#|#|#| THEN  1 With Confidence=1.0 and Coverage=1.0
+2:IF #|01|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=1.0
+3:IF #|#|#|#|#|#|#|01|#|01|#|#|#|#|#|#| THEN  4 With Confidence=1.0 and Coverage=1.0
+4:IF #|#|10|#|#|10|#|#|#|#|#|#|5.5,#|#|#|#| THEN  6 With Confidence=1.0 and Coverage=1.0
+5:IF 10|#|#|#|#|01|#|01|#|#|#|10|#|#|#|#| THEN  5 With Confidence=1.0 and Coverage=1.0
+6:IF 10|#|#|#|#|10|#|01|#|#|#|#|#|#|#|#| THEN  3 With Confidence=1.0 and Coverage=0.75
+7:IF #|#|#|#|#|#|#|#|10|#|#|#|#|#|#|#| THEN  7 With Confidence=0.5625 and Coverage=1.0
+
+1:IF #|01|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=1.0
+2:IF #|#|#|01|#|#|#|#|#|#|#|#|#|#|#|#| THEN  1 With Confidence=1.0 and Coverage=1.0
+3:IF #|#|10|#|#|#|#|#|#|10|#|#|5.5,#|#|#|#| THEN  6 With Confidence=1.0 and Coverage=1.0
+4:IF #|#|#|#|#|#|#|01|#|#|#|10|#, 0|#|#|#| THEN  3 With Confidence=1.0 and Coverage=0.75
+5:IF #|#|#|#|#|#|#|#|#|#|#|01|#|#|#|#| THEN  4 With Confidence=0.85714287 and Coverage=1.0
+6:IF #|#|#|#|10|#|#|#|10|#|#|#|#|#|#|#| THEN  7 With Confidence=0.8181818 and Coverage=1.0
+7:IF #|#|10|#|#|#|#|01|#|10|#|#|#|#|#|#| THEN  5 With Confidence=0.6666667 and Coverage=1.0
+
+1:IF #|01|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=1.0
+2:IF #|#|#|01|#|#|#|#|#|#|#|#|#|#|#|#| THEN  1 With Confidence=1.0 and Coverage=1.0
+3:IF #|#|#|10|#|#|#|#|#|#|#|01|#|#|#|#| THEN  4 With Confidence=1.0 and Coverage=1.0
+4:IF #|#|#|#|#|10|#|#|#|#|#|#|5.5,#|10|#|#| THEN  6 With Confidence=1.0 and Coverage=1.0
+5:IF #|#|10|#|#|01|#|01|#|#|#|10|#|#|#|#| THEN  5 With Confidence=1.0 and Coverage=1.0
+6:IF #|#|#|#|#|#|#|#|10|#|#|#|#|#|#|#| THEN  7 With Confidence=0.5625 and Coverage=1.0
+7:IF #|#|#|10|#|#|#|01|#|#|#|10|#|#|#|#| THEN  3 With Confidence=0.5 and Coverage=0.8
+
+1:IF #|01|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=1.0
+2:IF #|#|#|01|#|#|#|#|#|#|#|#|#|#|#|#| THEN  1 With Confidence=1.0 and Coverage=1.0
+3:IF #|#|#|10|#|#|#|#|#|#|#|01|#|#|#|#| THEN  4 With Confidence=1.0 and Coverage=1.0
+4:IF #|#|10|#|#|10|#|#|#|#|#|#|4.5,#|#|#|#| THEN  6 With Confidence=1.0 and Coverage=1.0
+5:IF #|#|10|#|#|#|#|01|#|#|#|#|#|10|#|#| THEN  5 With Confidence=1.0 and Coverage=0.75
+6:IF #|#|#|#|#|#|#|#|01|#|#|10|#, 0|#|#|#| THEN  3 With Confidence=1.0 and Coverage=0.6
+7:IF #|#|#|#|#|#|#|#|10|#|#|#|#|#|#|#| THEN  7 With Confidence=0.5625 and Coverage=1.0
+8:IF #|#|10|#|10|10|#|#|#|#|#|#|#|#|#|#| THEN  3 With Confidence=0.36363637 and Coverage=0.8
+
+1:IF #|#|#|01|#|#|#|#|#|#|#|#|#|#|#|#| THEN  1 With Confidence=1.0 and Coverage=1.0
+2:IF #|01|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=1.0
+3:IF #|#|10|#|#|#|#|#|#|#|#|01|#|#|#|#| THEN  4 With Confidence=1.0 and Coverage=1.0
+4:IF #|#|#|#|#|10|#|#|#|#|#|#|5.5,#|10|#|#| THEN  6 With Confidence=1.0 and Coverage=1.0
+5:IF #|#|10|#|#|#|#|01|#|#|#|#|#|10|#|#| THEN  5 With Confidence=1.0 and Coverage=0.75
+6:IF #|#|#|#|#|#|#|#|01|#|01|#|#,1.0|#|#|#| THEN  3 With Confidence=0.6666667 and Coverage=0.4
+7:IF #|#|#|#|#|#|#|#|10|#|#|#|#|#|#|#| THEN  7 With Confidence=0.5625 and Coverage=1.0
+
+1:IF #|01|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=1.0
+2:IF #|#|#|01|#|#|#|#|#|#|#|#|#|#|#|#| THEN  1 With Confidence=1.0 and Coverage=1.0
+3:IF #|#|#|#|#|#|#|#|#|01|#|01|#|#|#|#| THEN  4 With Confidence=1.0 and Coverage=1.0
+4:IF #|#|#|#|#|10|#|#|#|#|#|#|4.5,7.0|#|#|#| THEN  6 With Confidence=1.0 and Coverage=1.0
+5:IF #|#|#|#|#|#|#|#|#|#|#|10|#,1.0|01|#|#| THEN  3 With Confidence=1.0 and Coverage=0.6
+6:IF #|#|#|#|10|#|#|#|10|#|#|#|#|#|#|#| THEN  7 With Confidence=0.8181818 and Coverage=1.0
+7:IF #|#|#|10|#|#|#|01|#|#|#|#|1.0,7.0|#|#|#| THEN  5 With Confidence=0.75 and Coverage=1.0
+

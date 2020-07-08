@@ -1,0 +1,4 @@
+1:IF #|#|#|#| 4,#|#| THEN  0 With Confidence=1.0 and Coverage=0.5300546
+2:IF #|#, 1|#|#|#|#| THEN  1 With Confidence=0.7559055 and Coverage=0.46829268
+3:IF #,2.5|#|#|#|#|#| THEN  1 With Confidence=0.52895755 and Coverage=0.6682927
+

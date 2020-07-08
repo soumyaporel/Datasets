@@ -1,0 +1,7 @@
+2, 4.5, 4.5,?, tcf,?,?,?,?, yes, 10, below_average, yes, none,?, half, good
+1, 4.0,?,?, none,?, none,?,?, yes, 11, average, no, none, no, none, bad
+2, 4.0, 4.0,?, none, 40, none,?, 3,?, 10, below_average, no, none,?, none, bad
+3, 5.0, 5.0, 5.0,?, 40,?,?,?,?, 12, average,?, half, yes, half, good
+1, 5.0,?,?,?, 40,?,?, 2,?, 11, average,?,?, yes,?, good
+3, 3.7, 4.0, 5.0, tc,?,?,?,?, yes,?,?,?,?, yes,?, good
+

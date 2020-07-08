@@ -1,0 +1,9 @@
+1:IF #|10|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=1.0
+2:IF #|#|#|01|#|#|#|#|#|#|#|#|#|#|#|#| THEN  1 With Confidence=1.0 and Coverage=1.0
+3:IF #|#|#|#|#|#|#|#|#|01|#|01|#|#|#|#| THEN  4 With Confidence=1.0 and Coverage=1.0
+4:IF #|#|#|#|#|01|#|#|#|#|#|#|4.5,7.0|#|#|#| THEN  6 With Confidence=1.0 and Coverage=1.0
+5:IF #|#|10|#|#|#|#|#|10|#|#|#|#|01|#|#| THEN  5 With Confidence=1.0 and Coverage=0.6666667
+6:IF #|#|#|#|#|#|#|#|10|#|#|10|#, 0|#|#|#| THEN  3 With Confidence=1.0 and Coverage=0.6
+7:IF #|#|#|#|01|#|#|#|01|#|#|#|#|#|#|#| THEN  7 With Confidence=0.8181818 and Coverage=1.0
+8:IF #|01|10|#|#|#|#|#|10|#|#|10|#|#|#|#| THEN  3 With Confidence=0.5 and Coverage=0.8
+

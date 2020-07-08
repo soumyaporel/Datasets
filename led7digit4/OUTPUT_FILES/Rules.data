@@ -1,0 +1,312 @@
+1:IF #|#, 0.0|#|#| 1.0,#|#, 0.0| 1.0,#| THEN  2 With Confidence=1.0 and Coverage=0.5
+2:IF #|#|#, 0.0|#|#, 0.0|#, 0.0| 1.0,#| THEN  5 With Confidence=1.0 and Coverage=0.12765957
+3:IF #,0.0|#, 0.0|#| 1.0,#|#| 1.0,#|#, 0.0| THEN  4 With Confidence=1.0 and Coverage=0.06521739
+4:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#, 0.0| THEN  8 With Confidence=1.0 and Coverage=0.04255319
+5:IF #|#, 0.0|#, 0.0| 1.0,#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=1.0 and Coverage=0.023809524
+6:IF #| 1.0,#| 1.0,#|#|#, 0.0|#, 0.0|#, 0.0| THEN  9 With Confidence=1.0 and Coverage=0.022222223
+7:IF #,0.0| 1.0,#|#|#|#|#, 0.0|#, 0.0| THEN  4 With Confidence=1.0 and Coverage=0.02173913
+8:IF #|#, 0.0| 1.0,#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.9285714 and Coverage=0.5652174
+9:IF #| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.87096775 and Coverage=0.64285713
+10:IF 1.0,#| 1.0,#|#, 0.0|#|#, 0.0|#| 1.0,#| THEN  5 With Confidence=0.84615386 and Coverage=0.70212764
+11:IF 1.0,#| 1.0,#|#, 0.0|#|#, 0.0|#|#| THEN  5 With Confidence=0.8372093 and Coverage=0.7659575
+12:IF #|#|#, 0.0|#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.82857144 and Coverage=0.6904762
+13:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#|#| THEN  0 With Confidence=0.82758623 and Coverage=0.6
+14:IF #| 1.0,#|#, 0.0|#| 1.0,#|#|#| THEN  6 With Confidence=0.7948718 and Coverage=0.7380952
+15:IF 1.0,#|#|#|#, 0.0|#|#|#, 0.0| THEN  7 With Confidence=0.7916667 and Coverage=0.7307692
+16:IF #|#, 0.0|#| 1.0,#|#|#, 0.0|#| THEN  2 With Confidence=0.775 and Coverage=0.67391306
+17:IF #|#|#, 0.0|#|#, 0.0|#| 1.0,#| THEN  5 With Confidence=0.7647059 and Coverage=0.82978725
+18:IF #,0.0|#, 0.0|#|#, 0.0|#, 0.0| 1.0,#|#| THEN  1 With Confidence=0.7586207 and Coverage=0.6666667
+19:IF #,0.0|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  1 With Confidence=0.75757575 and Coverage=0.75757575
+20:IF #| 1.0,#|#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.7297297 and Coverage=0.675
+21:IF #|#, 0.0| 1.0,#| 1.0,#|#, 0.0|#|#| THEN  3 With Confidence=0.7058824 and Coverage=0.6923077
+22:IF #|#, 0.0| 1.0,#|#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=0.6981132 and Coverage=0.71153843
+23:IF #,0.0|#, 0.0|#|#, 0.0|#|#|#| THEN  1 With Confidence=0.6923077 and Coverage=0.8181818
+24:IF #|#, 0.0|#| 1.0,#|#| 1.0,#|#| THEN  3 With Confidence=0.6666667 and Coverage=0.61538464
+25:IF #|#|#|#, 0.0| 1.0,#| 1.0,#|#| THEN  0 With Confidence=0.65909094 and Coverage=0.725
+26:IF #| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| 1.0,#| THEN  8 With Confidence=0.625 and Coverage=0.63829786
+27:IF #,0.0| 1.0,#| 1.0,#| 1.0,#|#, 0.0|#| 1.0,#| THEN  9 With Confidence=0.625 and Coverage=0.11111111
+28:IF #,0.0| 1.0,#|#|#|#| 1.0,#|#| THEN  4 With Confidence=0.609375 and Coverage=0.84782606
+29:IF #| 1.0,#| 1.0,#| 1.0,#|#, 0.0|#| 1.0,#| THEN  9 With Confidence=0.6 and Coverage=0.6
+30:IF #| 1.0,#| 1.0,#|#|#, 0.0| 1.0,#| 1.0,#| THEN  9 With Confidence=0.59574467 and Coverage=0.62222224
+31:IF #|#| 1.0,#|#|#|#, 0.0|#| THEN  2 With Confidence=0.5735294 and Coverage=0.84782606
+
+1:IF #|#, 0.0|#|#| 1.0,#|#, 0.0| 1.0,#| THEN  2 With Confidence=1.0 and Coverage=0.54347825
+2:IF #,0.0|#|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=1.0 and Coverage=0.17391305
+3:IF #,0.0|#, 0.0| 1.0,#| 1.0,#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=1.0 and Coverage=0.115384616
+4:IF #,0.0|#, 0.0|#|#, 0.0| 1.0,#| 1.0,#|#| THEN  1 With Confidence=1.0 and Coverage=0.09090909
+5:IF #|#, 0.0|#, 0.0| 1.0,#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=1.0 and Coverage=0.023255814
+6:IF #,0.0|#|#| 1.0,#|#| 1.0,#|#, 0.0| THEN  4 With Confidence=0.972973 and Coverage=0.7826087
+7:IF #,0.0|#|#| 1.0,#|#|#|#, 0.0| THEN  4 With Confidence=0.9047619 and Coverage=0.82608694
+8:IF 1.0,#|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  7 With Confidence=0.9 and Coverage=0.7058824
+9:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#|#| THEN  0 With Confidence=0.89285713 and Coverage=0.625
+10:IF 1.0,#| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.8888889 and Coverage=0.55813956
+11:IF 1.0,#| 1.0,#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.8780488 and Coverage=0.7659575
+12:IF #,0.0|#, 0.0| 1.0,#|#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=0.875 and Coverage=0.13461539
+13:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.87096775 and Coverage=0.675
+14:IF 1.0,#|#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.8604651 and Coverage=0.78723407
+15:IF 1.0,#| 1.0,#|#, 0.0|#|#, 0.0|#|#| THEN  5 With Confidence=0.84444445 and Coverage=0.80851066
+16:IF #|#|#, 0.0| 1.0,#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.8333333 and Coverage=0.6976744
+17:IF #| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.82051283 and Coverage=0.74418604
+18:IF 1.0,#|#|#|#, 0.0|#|#|#, 0.0| THEN  7 With Confidence=0.80851066 and Coverage=0.74509805
+19:IF #,0.0|#, 0.0|#|#, 0.0|#| 1.0,#|#| THEN  1 With Confidence=0.8 and Coverage=0.72727275
+20:IF #|#, 0.0|#| 1.0,#|#|#, 0.0|#| THEN  2 With Confidence=0.8 and Coverage=0.6956522
+21:IF #|#|#, 0.0|#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.7906977 and Coverage=0.7906977
+22:IF 1.0,#|#, 0.0|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.78 and Coverage=0.7647059
+23:IF #|#, 0.0|#| 1.0,#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=0.7659575 and Coverage=0.6923077
+24:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#|#, 0.0|#|#, 0.0| THEN  9 With Confidence=0.75 and Coverage=0.06818182
+25:IF #,0.0|#|#|#, 0.0|#|#|#, 0.0| THEN  1 With Confidence=0.74285716 and Coverage=0.7878788
+26:IF #|#, 0.0| 1.0,#|#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=0.7358491 and Coverage=0.75
+27:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#|#| THEN  8 With Confidence=0.6904762 and Coverage=0.6041667
+28:IF #|#, 0.0|#|#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=0.6721311 and Coverage=0.78846157
+29:IF #| 1.0,#| 1.0,#| 1.0,#|#, 0.0|#| 1.0,#| THEN  9 With Confidence=0.62222224 and Coverage=0.6363636
+30:IF #|#|#, 0.0|#|#, 0.0|#|#| THEN  5 With Confidence=0.6056338 and Coverage=0.9148936
+31:IF #|#|#|#, 0.0|#|#| 1.0,#| THEN  0 With Confidence=0.4923077 and Coverage=0.8
+32:IF #|#| 1.0,#| 1.0,#| 1.0,#|#|#| THEN  8 With Confidence=0.41975307 and Coverage=0.7083333
+
+1:IF #,0.0|#|#| 1.0,#|#, 0.0| 1.0,#|#, 0.0| THEN  4 With Confidence=1.0 and Coverage=0.68085104
+2:IF #,0.0|#, 0.0| 1.0,#| 1.0,#|#| 1.0,#| 1.0,#| THEN  3 With Confidence=1.0 and Coverage=0.13461539
+3:IF 1.0,#|#|#|#, 0.0|#, 0.0|#, 0.0|#, 0.0| THEN  7 With Confidence=1.0 and Coverage=0.09803922
+4:IF #|#, 0.0|#, 0.0| 1.0,#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=1.0 and Coverage=0.023255814
+5:IF #,0.0| 1.0,#| 1.0,#|#|#, 0.0|#, 0.0|#| THEN  9 With Confidence=1.0 and Coverage=0.022727273
+6:IF #| 1.0,#| 1.0,#|#|#, 0.0|#, 0.0|#, 0.0| THEN  9 With Confidence=1.0 and Coverage=0.022727273
+7:IF #,0.0| 1.0,#|#|#| 1.0,#|#, 0.0|#| THEN  8 With Confidence=1.0 and Coverage=0.020833334
+8:IF #|#|#, 0.0|#| 1.0,#|#, 0.0|#, 0.0| THEN  7 With Confidence=1.0 and Coverage=0.019607844
+9:IF #|#, 0.0| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#| THEN  3 With Confidence=0.93939394 and Coverage=0.59615386
+10:IF 1.0,#|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  7 With Confidence=0.9230769 and Coverage=0.7058824
+11:IF 1.0,#|#|#, 0.0| 1.0,#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.9166667 and Coverage=0.5116279
+12:IF #|#, 0.0|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.9117647 and Coverage=0.6888889
+13:IF 1.0,#| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.8888889 and Coverage=0.55813956
+14:IF 1.0,#| 1.0,#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.8857143 and Coverage=0.67391306
+15:IF 1.0,#|#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.8648649 and Coverage=0.6956522
+16:IF #|#|#, 0.0| 1.0,#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.86206895 and Coverage=0.5813953
+17:IF 1.0,#| 1.0,#|#, 0.0|#|#, 0.0|#|#| THEN  5 With Confidence=0.85365856 and Coverage=0.76086956
+18:IF #,0.0|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  1 With Confidence=0.84375 and Coverage=0.7941176
+19:IF #|#|#, 0.0| 1.0,#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.8235294 and Coverage=0.6511628
+20:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.8181818 and Coverage=0.675
+21:IF 1.0,#|#, 0.0|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.79591835 and Coverage=0.7647059
+22:IF #|#|#, 0.0|#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.78571427 and Coverage=0.76744187
+23:IF #,0.0|#, 0.0|#|#, 0.0|#|#|#| THEN  1 With Confidence=0.7631579 and Coverage=0.85294116
+24:IF #|#|#, 0.0|#|#, 0.0|#| 1.0,#| THEN  5 With Confidence=0.75510204 and Coverage=0.8043478
+25:IF #|#|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.74 and Coverage=0.82222223
+26:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| THEN  8 With Confidence=0.7027027 and Coverage=0.5416667
+27:IF 1.0,#|#, 0.0|#|#, 0.0|#|#|#| THEN  7 With Confidence=0.7017544 and Coverage=0.78431374
+28:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#|#, 0.0|#|#, 0.0| THEN  9 With Confidence=0.6666667 and Coverage=0.045454547
+29:IF #| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| 1.0,#| THEN  8 With Confidence=0.6530612 and Coverage=0.6666667
+30:IF #,0.0| 1.0,#|#|#|#|#|#| THEN  4 With Confidence=0.6268657 and Coverage=0.89361703
+31:IF 1.0,#| 1.0,#| 1.0,#|#|#, 0.0|#| 1.0,#| THEN  9 With Confidence=0.60465115 and Coverage=0.59090906
+32:IF 1.0,#|#|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.5915493 and Coverage=0.8235294
+33:IF #|#, 0.0|#| 1.0,#|#|#|#| THEN  3 With Confidence=0.4318182 and Coverage=0.7307692
+
+1:IF #,0.0|#|#| 1.0,#|#, 0.0|#|#, 0.0| THEN  4 With Confidence=0.9705882 and Coverage=0.70212764
+2:IF #|#, 0.0|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.93939394 and Coverage=0.67391306
+3:IF #|#, 0.0| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#| THEN  3 With Confidence=0.90625 and Coverage=0.5686275
+4:IF 1.0,#|#|#, 0.0|#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.8965517 and Coverage=0.60465115
+5:IF 1.0,#| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.87096775 and Coverage=0.627907
+6:IF 1.0,#| 1.0,#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.8648649 and Coverage=0.6956522
+7:IF #,0.0| 1.0,#|#|#|#, 0.0|#|#| THEN  4 With Confidence=0.8636364 and Coverage=0.80851066
+8:IF 1.0,#|#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.84615386 and Coverage=0.7173913
+9:IF 1.0,#|#, 0.0|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.8043478 and Coverage=0.7254902
+10:IF #,0.0|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  1 With Confidence=0.8 and Coverage=0.8235294
+11:IF #| 1.0,#|#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.7567568 and Coverage=0.7
+12:IF #|#|#, 0.0|#|#, 0.0|#| 1.0,#| THEN  5 With Confidence=0.74509805 and Coverage=0.82608694
+13:IF #|#, 0.0| 1.0,#| 1.0,#|#| 1.0,#|#| THEN  3 With Confidence=0.7380952 and Coverage=0.60784316
+14:IF #|#|#, 0.0|#| 1.0,#|#|#| THEN  6 With Confidence=0.71428573 and Coverage=0.81395346
+15:IF #,0.0| 1.0,#|#| 1.0,#|#|#|#| THEN  4 With Confidence=0.7090909 and Coverage=0.82978725
+16:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#|#| THEN  8 With Confidence=0.6666667 and Coverage=0.625
+17:IF 1.0,#| 1.0,#| 1.0,#|#|#, 0.0| 1.0,#| 1.0,#| THEN  9 With Confidence=0.6511628 and Coverage=0.6363636
+18:IF #|#| 1.0,#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.6458333 and Coverage=0.775
+19:IF #,0.0|#|#|#, 0.0|#|#|#| THEN  1 With Confidence=0.62 and Coverage=0.9117647
+20:IF #|#|#, 0.0|#|#, 0.0|#|#| THEN  5 With Confidence=0.5915493 and Coverage=0.9130435
+21:IF #|#|#|#|#|#, 0.0|#| THEN  2 With Confidence=0.55 and Coverage=0.95652175
+22:IF #|#, 0.0|#|#|#|#| 1.0,#| THEN  3 With Confidence=0.40206185 and Coverage=0.7647059
+23:IF #|#|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.30666667 and Coverage=0.9019608
+
+1:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#|#|#, 0.0| THEN  0 With Confidence=1.0 and Coverage=0.1
+2:IF #,0.0|#, 0.0|#|#, 0.0|#, 0.0| 1.0,#| 1.0,#| THEN  1 With Confidence=1.0 and Coverage=0.05882353
+3:IF #,0.0| 1.0,#|#|#|#, 0.0|#, 0.0| 1.0,#| THEN  9 With Confidence=1.0 and Coverage=0.022727273
+4:IF #,0.0|#|#|#, 0.0|#, 0.0|#, 0.0| 1.0,#| THEN  3 With Confidence=1.0 and Coverage=0.019607844
+5:IF #|#, 0.0| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#| THEN  3 With Confidence=0.9166667 and Coverage=0.64705884
+6:IF #|#, 0.0|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.90909094 and Coverage=0.65217394
+7:IF #,0.0|#|#| 1.0,#|#|#|#, 0.0| THEN  4 With Confidence=0.9 and Coverage=0.7659575
+8:IF #,0.0|#, 0.0|#| 1.0,#|#| 1.0,#| 1.0,#| THEN  3 With Confidence=0.875 and Coverage=0.13725491
+9:IF #| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.87096775 and Coverage=0.64285713
+10:IF #|#, 0.0|#| 1.0,#|#, 0.0| 1.0,#| 1.0,#| THEN  3 With Confidence=0.8684211 and Coverage=0.64705884
+11:IF 1.0,#|#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.85 and Coverage=0.7234042
+12:IF #|#, 0.0|#|#|#|#, 0.0| 1.0,#| THEN  2 With Confidence=0.84210527 and Coverage=0.6956522
+13:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#|#| THEN  0 With Confidence=0.8333333 and Coverage=0.625
+14:IF #| 1.0,#|#, 0.0|#|#, 0.0|#| 1.0,#| THEN  5 With Confidence=0.82222223 and Coverage=0.78723407
+15:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.8125 and Coverage=0.65
+16:IF #,0.0| 1.0,#|#|#|#, 0.0|#|#| THEN  4 With Confidence=0.8043478 and Coverage=0.78723407
+17:IF #|#|#, 0.0|#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.8 and Coverage=0.7619048
+18:IF 1.0,#|#, 0.0|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.78723407 and Coverage=0.7254902
+19:IF #|#|#, 0.0|#|#, 0.0|#| 1.0,#| THEN  5 With Confidence=0.7692308 and Coverage=0.85106385
+20:IF #,0.0|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  1 With Confidence=0.7647059 and Coverage=0.7647059
+21:IF #|#|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.75 and Coverage=0.7826087
+22:IF #|#| 1.0,#|#, 0.0| 1.0,#| 1.0,#|#| THEN  0 With Confidence=0.71794873 and Coverage=0.7
+23:IF 1.0,#|#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| THEN  8 With Confidence=0.71794873 and Coverage=0.5833333
+24:IF #|#, 0.0| 1.0,#|#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=0.7169811 and Coverage=0.74509805
+25:IF #| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| 1.0,#| THEN  8 With Confidence=0.6875 and Coverage=0.6875
+26:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#| THEN  9 With Confidence=0.6363636 and Coverage=0.47727272
+27:IF #|#|#|#|#|#, 0.0| 1.0,#| THEN  2 With Confidence=0.6229508 and Coverage=0.82608694
+28:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#|#, 0.0|#|#| THEN  9 With Confidence=0.6097561 and Coverage=0.5681818
+29:IF #|#|#, 0.0|#|#, 0.0|#|#| THEN  5 With Confidence=0.5915493 and Coverage=0.89361703
+30:IF 1.0,#|#|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.5882353 and Coverage=0.78431374
+31:IF #| 1.0,#| 1.0,#|#|#, 0.0| 1.0,#| 1.0,#| THEN  9 With Confidence=0.5833333 and Coverage=0.6363636
+
+1:IF #,0.0| 1.0,#|#|#|#, 0.0|#|#, 0.0| THEN  4 With Confidence=1.0 and Coverage=0.65957445
+2:IF #,0.0|#, 0.0|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=1.0 and Coverage=0.1521739
+3:IF #,0.0|#, 0.0| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#| THEN  3 With Confidence=1.0 and Coverage=0.11764706
+4:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#|#|#, 0.0| THEN  0 With Confidence=1.0 and Coverage=0.09756097
+5:IF #| 1.0,#|#, 0.0|#| 1.0,#|#|#, 0.0| THEN  6 With Confidence=1.0 and Coverage=0.0952381
+6:IF #,0.0| 1.0,#|#|#| 1.0,#|#, 0.0|#| THEN  8 With Confidence=1.0 and Coverage=0.020833334
+7:IF #,0.0|#|#|#, 0.0|#, 0.0|#, 0.0| 1.0,#| THEN  3 With Confidence=1.0 and Coverage=0.019607844
+8:IF #,0.0| 1.0,#|#|#|#|#|#, 0.0| THEN  4 With Confidence=0.94736844 and Coverage=0.7659575
+9:IF #|#, 0.0| 1.0,#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.9259259 and Coverage=0.54347825
+10:IF #,0.0|#|#| 1.0,#|#|#|#, 0.0| THEN  4 With Confidence=0.925 and Coverage=0.78723407
+11:IF 1.0,#|#, 0.0|#|#, 0.0|#, 0.0|#|#, 0.0| THEN  7 With Confidence=0.9117647 and Coverage=0.60784316
+12:IF #|#, 0.0| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#| THEN  3 With Confidence=0.90909094 and Coverage=0.5882353
+13:IF 1.0,#|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  7 With Confidence=0.8974359 and Coverage=0.6862745
+14:IF 1.0,#|#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.875 and Coverage=0.7446808
+15:IF 1.0,#| 1.0,#|#, 0.0|#|#, 0.0|#|#| THEN  5 With Confidence=0.8636364 and Coverage=0.80851066
+16:IF #|#|#, 0.0|#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.825 and Coverage=0.78571427
+17:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.8181818 and Coverage=0.6585366
+18:IF #|#, 0.0|#|#|#|#, 0.0| 1.0,#| THEN  2 With Confidence=0.81578946 and Coverage=0.67391306
+19:IF #|#|#, 0.0|#|#, 0.0|#| 1.0,#| THEN  5 With Confidence=0.79591835 and Coverage=0.82978725
+20:IF #,0.0|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  1 With Confidence=0.7647059 and Coverage=0.7878788
+21:IF #|#|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.74 and Coverage=0.8043478
+22:IF 1.0,#|#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| THEN  8 With Confidence=0.725 and Coverage=0.6041667
+23:IF #| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| 1.0,#| THEN  8 With Confidence=0.70212764 and Coverage=0.6875
+24:IF #| 1.0,#|#|#|#|#|#, 0.0| THEN  4 With Confidence=0.6551724 and Coverage=0.80851066
+25:IF #,0.0| 1.0,#|#|#|#|#|#| THEN  4 With Confidence=0.63076925 and Coverage=0.87234044
+26:IF #| 1.0,#| 1.0,#|#|#, 0.0|#| 1.0,#| THEN  9 With Confidence=0.6037736 and Coverage=0.72727275
+27:IF #|#|#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.5614035 and Coverage=0.7804878
+
+1:IF #|#, 0.0|#|#| 1.0,#|#, 0.0| 1.0,#| THEN  2 With Confidence=1.0 and Coverage=0.54347825
+2:IF #|#|#, 0.0|#|#, 0.0|#, 0.0| 1.0,#| THEN  5 With Confidence=1.0 and Coverage=0.10638298
+3:IF 1.0,#|#, 0.0|#, 0.0|#|#|#|#, 0.0| THEN  7 With Confidence=1.0 and Coverage=0.039215688
+4:IF #,0.0| 1.0,#| 1.0,#|#|#, 0.0|#, 0.0|#| THEN  9 With Confidence=1.0 and Coverage=0.022727273
+5:IF #,0.0| 1.0,#|#|#| 1.0,#|#, 0.0|#| THEN  8 With Confidence=1.0 and Coverage=0.020833334
+6:IF #|#, 0.0|#| 1.0,#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.962963 and Coverage=0.5652174
+7:IF #|#, 0.0|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.93939394 and Coverage=0.67391306
+8:IF #,0.0|#|#| 1.0,#|#|#|#, 0.0| THEN  4 With Confidence=0.925 and Coverage=0.78723407
+9:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#|#| THEN  0 With Confidence=0.89285713 and Coverage=0.6097561
+10:IF 1.0,#| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.88461536 and Coverage=0.54761904
+11:IF 1.0,#| 1.0,#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.8717949 and Coverage=0.7234042
+12:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.87096775 and Coverage=0.6585366
+13:IF #|#|#, 0.0| 1.0,#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.85714287 and Coverage=0.5714286
+14:IF #|#|#, 0.0|#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.8235294 and Coverage=0.6666667
+15:IF #|#, 0.0|#| 1.0,#|#|#, 0.0|#| THEN  2 With Confidence=0.82051283 and Coverage=0.6956522
+16:IF #| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.81578946 and Coverage=0.7380952
+17:IF #|#, 0.0| 1.0,#| 1.0,#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=0.79545456 and Coverage=0.6862745
+18:IF #,0.0|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  1 With Confidence=0.7878788 and Coverage=0.7878788
+19:IF #| 1.0,#|#, 0.0|#| 1.0,#|#|#| THEN  6 With Confidence=0.78571427 and Coverage=0.78571427
+20:IF 1.0,#|#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| THEN  8 With Confidence=0.675 and Coverage=0.5625
+21:IF #|#|#|#, 0.0| 1.0,#|#| 1.0,#| THEN  0 With Confidence=0.6744186 and Coverage=0.70731705
+22:IF #| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| 1.0,#| THEN  8 With Confidence=0.64705884 and Coverage=0.6875
+23:IF #,0.0| 1.0,#|#|#|#|#|#| THEN  4 With Confidence=0.6268657 and Coverage=0.89361703
+24:IF 1.0,#| 1.0,#| 1.0,#|#|#, 0.0|#| 1.0,#| THEN  9 With Confidence=0.6097561 and Coverage=0.5681818
+25:IF #|#|#, 0.0|#|#, 0.0|#|#| THEN  5 With Confidence=0.6056338 and Coverage=0.9148936
+26:IF 1.0,#|#|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.5882353 and Coverage=0.78431374
+27:IF #|#|#|#|#|#, 0.0|#| THEN  2 With Confidence=0.5555556 and Coverage=0.9782609
+28:IF #|#, 0.0|#|#, 0.0|#|#|#| THEN  7 With Confidence=0.4631579 and Coverage=0.8627451
+
+1:IF #,0.0|#|#| 1.0,#|#| 1.0,#|#, 0.0| THEN  4 With Confidence=1.0 and Coverage=0.7446808
+2:IF 1.0,#| 1.0,#|#, 0.0| 1.0,#|#, 0.0|#, 0.0|#| THEN  5 With Confidence=1.0 and Coverage=0.08510638
+3:IF 1.0,#|#|#, 0.0| 1.0,#|#, 0.0|#|#, 0.0| THEN  5 With Confidence=1.0 and Coverage=0.06382979
+4:IF #|#, 0.0|#, 0.0|#, 0.0| 1.0,#|#|#, 0.0| THEN  7 With Confidence=1.0 and Coverage=0.019607844
+5:IF #|#, 0.0|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.9411765 and Coverage=0.6956522
+6:IF #,0.0|#|#| 1.0,#|#|#|#, 0.0| THEN  4 With Confidence=0.925 and Coverage=0.78723407
+7:IF 1.0,#|#|#, 0.0| 1.0,#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.9166667 and Coverage=0.52380955
+8:IF 1.0,#|#, 0.0| 1.0,#|#, 0.0|#|#|#, 0.0| THEN  7 With Confidence=0.90909094 and Coverage=0.5882353
+9:IF 1.0,#|#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.8947368 and Coverage=0.7234042
+10:IF 1.0,#| 1.0,#|#, 0.0|#|#, 0.0|#|#| THEN  5 With Confidence=0.88095236 and Coverage=0.78723407
+11:IF 1.0,#| 1.0,#|#, 0.0|#| 1.0,#|#| 1.0,#| THEN  6 With Confidence=0.8666667 and Coverage=0.61904764
+12:IF 1.0,#| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#|#| THEN  0 With Confidence=0.8518519 and Coverage=0.5609756
+13:IF 1.0,#| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.84375 and Coverage=0.64285713
+14:IF #| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.84375 and Coverage=0.64285713
+15:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#|#| THEN  0 With Confidence=0.8333333 and Coverage=0.6097561
+16:IF #|#|#, 0.0|#|#, 0.0|#| 1.0,#| THEN  5 With Confidence=0.7916667 and Coverage=0.80851066
+17:IF 1.0,#|#|#|#, 0.0|#|#|#, 0.0| THEN  7 With Confidence=0.7826087 and Coverage=0.7058824
+18:IF #,0.0|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  1 With Confidence=0.75757575 and Coverage=0.75757575
+19:IF #|#, 0.0| 1.0,#|#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=0.75 and Coverage=0.7647059
+20:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| THEN  8 With Confidence=0.6944444 and Coverage=0.5208333
+21:IF #|#|#|#, 0.0| 1.0,#|#| 1.0,#| THEN  0 With Confidence=0.6904762 and Coverage=0.70731705
+22:IF 1.0,#|#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| THEN  8 With Confidence=0.6585366 and Coverage=0.5625
+23:IF 1.0,#| 1.0,#| 1.0,#|#|#, 0.0| 1.0,#| 1.0,#| THEN  9 With Confidence=0.65789473 and Coverage=0.5681818
+24:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#|#| THEN  8 With Confidence=0.65217394 and Coverage=0.625
+25:IF #| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| 1.0,#| THEN  8 With Confidence=0.63265306 and Coverage=0.6458333
+26:IF #| 1.0,#|#|#|#|#|#, 0.0| THEN  4 With Confidence=0.62903225 and Coverage=0.82978725
+27:IF #| 1.0,#| 1.0,#|#|#, 0.0|#| 1.0,#| THEN  9 With Confidence=0.62 and Coverage=0.70454544
+28:IF #|#|#| 1.0,#|#|#, 0.0|#| THEN  2 With Confidence=0.6119403 and Coverage=0.8913044
+29:IF 1.0,#|#|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.5492958 and Coverage=0.7647059
+
+1:IF #,0.0| 1.0,#| 1.0,#| 1.0,#|#|#|#, 0.0| THEN  4 With Confidence=1.0 and Coverage=0.5531915
+2:IF 1.0,#|#|#|#, 0.0|#|#, 0.0|#, 0.0| THEN  7 With Confidence=1.0 and Coverage=0.13461539
+3:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#|#|#, 0.0| THEN  0 With Confidence=1.0 and Coverage=0.07317073
+4:IF #,0.0|#|#|#, 0.0|#|#, 0.0|#, 0.0| THEN  1 With Confidence=1.0 and Coverage=0.060606062
+5:IF #| 1.0,#|#, 0.0|#, 0.0|#|#|#, 0.0| THEN  6 With Confidence=1.0 and Coverage=0.04761905
+6:IF #,0.0| 1.0,#|#|#|#, 0.0|#, 0.0|#| THEN  9 With Confidence=1.0 and Coverage=0.022727273
+7:IF #,0.0| 1.0,#|#|#| 1.0,#|#, 0.0|#| THEN  8 With Confidence=1.0 and Coverage=0.021276595
+8:IF #,0.0| 1.0,#|#|#|#|#|#, 0.0| THEN  4 With Confidence=0.9459459 and Coverage=0.7446808
+9:IF #|#, 0.0| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#| THEN  3 With Confidence=0.9189189 and Coverage=0.6666667
+10:IF #|#, 0.0|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.90909094 and Coverage=0.65217394
+11:IF 1.0,#|#|#, 0.0| 1.0,#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.90909094 and Coverage=0.47619048
+12:IF #,0.0|#|#| 1.0,#|#|#|#, 0.0| THEN  4 With Confidence=0.9 and Coverage=0.7659575
+13:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#| 1.0,#|#| THEN  0 With Confidence=0.8666667 and Coverage=0.63414633
+14:IF 1.0,#| 1.0,#| 1.0,#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.8666667 and Coverage=0.63414633
+15:IF 1.0,#|#|#, 0.0| 1.0,#|#, 0.0|#|#| THEN  5 With Confidence=0.85365856 and Coverage=0.7446808
+16:IF #|#, 0.0|#|#|#|#, 0.0| 1.0,#| THEN  2 With Confidence=0.84210527 and Coverage=0.6956522
+17:IF #| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.83870965 and Coverage=0.61904764
+18:IF 1.0,#|#|#|#, 0.0|#|#|#, 0.0| THEN  7 With Confidence=0.8125 and Coverage=0.75
+19:IF 1.0,#|#|#, 0.0|#|#, 0.0|#| 1.0,#| THEN  5 With Confidence=0.7826087 and Coverage=0.7659575
+20:IF #|#|#, 0.0|#|#, 0.0|#| 1.0,#| THEN  5 With Confidence=0.7647059 and Coverage=0.82978725
+21:IF #|#|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.75510204 and Coverage=0.8043478
+22:IF #|#, 0.0|#|#|#, 0.0| 1.0,#| 1.0,#| THEN  3 With Confidence=0.75510204 and Coverage=0.7254902
+23:IF #,0.0|#|#|#, 0.0|#|#|#, 0.0| THEN  1 With Confidence=0.75 and Coverage=0.8181818
+24:IF #,0.0| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| 1.0,#| THEN  8 With Confidence=0.75 and Coverage=0.06382979
+25:IF #|#| 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#| THEN  8 With Confidence=0.6923077 and Coverage=0.5744681
+26:IF #|#| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#| THEN  0 With Confidence=0.6818182 and Coverage=0.73170733
+27:IF #,0.0| 1.0,#|#|#|#| 1.0,#|#| THEN  4 With Confidence=0.6721311 and Coverage=0.87234044
+28:IF #|#|#, 0.0|#| 1.0,#|#|#| THEN  6 With Confidence=0.66 and Coverage=0.78571427
+29:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#|#, 0.0|#|#| THEN  9 With Confidence=0.65 and Coverage=0.59090906
+30:IF #|#|#| 1.0,#|#|#, 0.0|#| THEN  2 With Confidence=0.6229508 and Coverage=0.82608694
+31:IF #|#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| THEN  8 With Confidence=0.6086956 and Coverage=0.59574467
+32:IF 1.0,#|#|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.5972222 and Coverage=0.8269231
+
+1:IF #,0.0|#|#| 1.0,#|#, 0.0| 1.0,#|#, 0.0| THEN  4 With Confidence=1.0 and Coverage=0.63829786
+2:IF #,0.0|#|#, 0.0|#, 0.0|#|#|#| THEN  1 With Confidence=1.0 and Coverage=0.15151516
+3:IF #| 1.0,#| 1.0,#|#, 0.0| 1.0,#|#|#, 0.0| THEN  0 With Confidence=1.0 and Coverage=0.09756097
+4:IF #|#|#, 0.0|#|#, 0.0|#, 0.0| 1.0,#| THEN  5 With Confidence=1.0 and Coverage=0.08510638
+5:IF 1.0,#|#|#, 0.0|#|#|#, 0.0|#, 0.0| THEN  7 With Confidence=1.0 and Coverage=0.057692308
+6:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#, 0.0| THEN  8 With Confidence=1.0 and Coverage=0.04255319
+7:IF #|#, 0.0|#, 0.0| 1.0,#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=1.0 and Coverage=0.023809524
+8:IF #,0.0| 1.0,#|#|#|#, 0.0|#, 0.0| 1.0,#| THEN  9 With Confidence=1.0 and Coverage=0.022727273
+9:IF #| 1.0,#|#, 0.0|#|#|#, 0.0|#, 0.0| THEN  4 With Confidence=1.0 and Coverage=0.021276595
+10:IF #,0.0| 1.0,#|#|#| 1.0,#|#, 0.0|#| THEN  8 With Confidence=1.0 and Coverage=0.021276595
+11:IF #|#|#, 0.0| 1.0,#| 1.0,#| 1.0,#| 1.0,#| THEN  6 With Confidence=0.9259259 and Coverage=0.5952381
+12:IF #|#, 0.0|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.9117647 and Coverage=0.67391306
+13:IF 1.0,#|#, 0.0|#|#, 0.0|#| 1.0,#|#, 0.0| THEN  7 With Confidence=0.9 and Coverage=0.5192308
+14:IF 1.0,#|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  7 With Confidence=0.8947368 and Coverage=0.65384614
+15:IF 1.0,#| 1.0,#|#, 0.0|#|#, 0.0|#|#| THEN  5 With Confidence=0.88372093 and Coverage=0.80851066
+16:IF #|#|#, 0.0| 1.0,#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.875 and Coverage=0.6666667
+17:IF #| 1.0,#|#, 0.0|#| 1.0,#| 1.0,#|#| THEN  6 With Confidence=0.8611111 and Coverage=0.7380952
+18:IF #| 1.0,#|#, 0.0|#| 1.0,#|#|#| THEN  6 With Confidence=0.825 and Coverage=0.78571427
+19:IF #,0.0| 1.0,#|#|#|#, 0.0|#|#| THEN  4 With Confidence=0.8043478 and Coverage=0.78723407
+20:IF #|#|#| 1.0,#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.8 and Coverage=0.6956522
+21:IF #|#|#, 0.0|#|#, 0.0|#| 1.0,#| THEN  5 With Confidence=0.79591835 and Coverage=0.82978725
+22:IF #|#, 0.0|#| 1.0,#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=0.79545456 and Coverage=0.6862745
+23:IF #,0.0|#, 0.0|#|#, 0.0|#|#|#, 0.0| THEN  1 With Confidence=0.7714286 and Coverage=0.8181818
+24:IF 1.0,#|#|#|#, 0.0|#|#|#, 0.0| THEN  7 With Confidence=0.7659575 and Coverage=0.6923077
+25:IF #|#|#|#| 1.0,#|#, 0.0|#| THEN  2 With Confidence=0.76 and Coverage=0.82608694
+26:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| THEN  8 With Confidence=0.74285716 and Coverage=0.5531915
+27:IF #| 1.0,#|#|#, 0.0| 1.0,#|#|#| THEN  0 With Confidence=0.71794873 and Coverage=0.68292683
+28:IF #|#, 0.0|#|#|#, 0.0|#| 1.0,#| THEN  3 With Confidence=0.6964286 and Coverage=0.7647059
+29:IF #| 1.0,#| 1.0,#| 1.0,#| 1.0,#|#| 1.0,#| THEN  8 With Confidence=0.6666667 and Coverage=0.68085104
+30:IF 1.0,#| 1.0,#| 1.0,#|#|#, 0.0| 1.0,#| 1.0,#| THEN  9 With Confidence=0.64102566 and Coverage=0.5681818
+31:IF #|#|#|#, 0.0| 1.0,#| 1.0,#|#| THEN  0 With Confidence=0.63265306 and Coverage=0.75609756
+32:IF #,0.0| 1.0,#|#|#|#| 1.0,#|#| THEN  4 With Confidence=0.63076925 and Coverage=0.87234044
+33:IF 1.0,#| 1.0,#| 1.0,#| 1.0,#|#, 0.0|#|#| THEN  9 With Confidence=0.625 and Coverage=0.5681818
+34:IF #|#|#|#|#|#, 0.0|#| THEN  2 With Confidence=0.5714286 and Coverage=0.95652175
+35:IF 1.0,#|#|#|#|#|#|#, 0.0| THEN  7 With Confidence=0.5479452 and Coverage=0.7692308
+36:IF #|#, 0.0|#| 1.0,#|#|#|#| THEN  3 With Confidence=0.44186047 and Coverage=0.74509805
+

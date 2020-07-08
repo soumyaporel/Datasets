@@ -1,0 +1,3 @@
+T3resin,Thyroxin,Triiodothyronine,Thyroidstimulating,TSH_value,type
+Integer,Float,Float,Float,Float,String
+

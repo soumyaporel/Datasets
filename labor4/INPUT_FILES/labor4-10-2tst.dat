@@ -1,0 +1,7 @@
+2, 3.0, 7.0,?,?, 38,?, 12, 25, yes, 11, below_average, yes, half, yes,?, good
+3, 3.5, 4.0, 5.1, tcf, 37,?,?, 4,?, 13, generous,?, full, yes, full, good
+2, 2.0, 2.0,?, none, 40, none,?,?, no, 11, average, yes, none, yes, full, bad
+2, 2.5, 3.0,?, tcf, 40, none,?,?,?, 11, below_average,?,?, yes,?, bad
+2, 4.6, 4.6,?, tcf, 38,?,?,?,?,?,?, yes, half,?, half, good
+2, 5.0, 4.5,?, none, 38,?, 14, 5,?, 11, below_average, yes,?,?, full, good
+

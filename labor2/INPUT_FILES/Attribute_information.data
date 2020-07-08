@@ -1,0 +1,3 @@
+dur,wage1,wage2,wage3,cola,hours,pension,stby_pay,shift_diff,educ_allw,holidays,vacation,lngtrm_disabil,dntl_ins,bereavement,empl_hplan,ClassLabel
+Integer,Float,Float,Float,String,Integer,String,Integer,Integer,Binary,Integer,String,Binary,String,Binary,String,String,
+

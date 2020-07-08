@@ -1,0 +1,73 @@
+1:IF #|11.95,#|#|#|#,0.45| THEN  2 With Confidence=1.0 and Coverage=0.9032258
+2:IF #|#|#|4.0,#|#| THEN  3 With Confidence=1.0 and Coverage=0.8148148
+3:IF #|4.0,#|#,2.95|#|0.45,4.45| THEN  1 With Confidence=1.0 and Coverage=0.7925926
+4:IF #|6.55,11.95|#|#,4.0|#| THEN  1 With Confidence=0.9826087 and Coverage=0.837037
+5:IF #|#|2.55,#|#|#| THEN  2 With Confidence=0.8064516 and Coverage=0.8064516
+6:IF #|#,6.9|#|1.05,#|#| THEN  3 With Confidence=0.7105263 and Coverage=1.0
+
+1:IF #|11.95,#|#|#|#,0.45| THEN  2 With Confidence=1.0 and Coverage=0.9032258
+2:IF #|#|#|4.2,#|#| THEN  3 With Confidence=1.0 and Coverage=0.8148148
+3:IF 95.5,133.5|6.9,11.95|#|#|#| THEN  1 With Confidence=1.0 and Coverage=0.75555557
+4:IF #|#|3.2,#|#|#| THEN  2 With Confidence=1.0 and Coverage=0.61290324
+5:IF #|5.65,#|#|#|0.45,14.05| THEN  1 With Confidence=0.98333335 and Coverage=0.8740741
+6:IF #|#,6.55|#|#|#| THEN  3 With Confidence=0.7027027 and Coverage=0.962963
+7:IF #|#|#|#|#,0.45| THEN  2 With Confidence=0.6666667 and Coverage=0.9677419
+
+1:IF #|11.95,#|#|#|#,0.45| THEN  2 With Confidence=1.0 and Coverage=0.9032258
+2:IF #|#|#|4.0,#|#| THEN  3 With Confidence=1.0 and Coverage=0.7777778
+3:IF #|4.0,16.25|#|#|0.7,4.55| THEN  1 With Confidence=1.0 and Coverage=0.74814814
+4:IF #|16.25,#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=0.67741936
+5:IF #|5.65,14.05|#|#|#| THEN  1 With Confidence=0.94244605 and Coverage=0.97037035
+6:IF #|#,6.55|#|1.05,#|#| THEN  3 With Confidence=0.74285716 and Coverage=0.962963
+
+1:IF #|11.95,#|#|#|#,0.45| THEN  2 With Confidence=1.0 and Coverage=0.9032258
+2:IF #|5.449999999999999,#|#,3.2|#|0.45,8.05| THEN  1 With Confidence=1.0 and Coverage=0.8888889
+3:IF #|#|#|4.0,#|#| THEN  3 With Confidence=1.0 and Coverage=0.7777778
+4:IF #|#|3.2,#|#|#| THEN  2 With Confidence=1.0 and Coverage=0.67741936
+5:IF #|6.9,11.95|#|#|#| THEN  1 With Confidence=0.98058254 and Coverage=0.74814814
+6:IF #|#,6.55|#|#|4.45,#| THEN  3 With Confidence=0.9583333 and Coverage=0.8518519
+7:IF #|4.0,15.65|#,3.2|#,4.0|#| THEN  1 With Confidence=0.9305556 and Coverage=0.9925926
+8:IF #|#,5.65|#|#|#| THEN  3 With Confidence=0.9230769 and Coverage=0.8888889
+
+1:IF #|11.95,#|#|#|#,0.45| THEN  2 With Confidence=1.0 and Coverage=0.9354839
+2:IF #|#|#|3.55,#|#| THEN  3 With Confidence=1.0 and Coverage=0.7777778
+3:IF #|#|3.2,#|#|#| THEN  2 With Confidence=1.0 and Coverage=0.61290324
+4:IF #|5.65,16.25|0.35,3.2|#,3.55|#| THEN  1 With Confidence=0.9432624 and Coverage=0.9851852
+5:IF #|#,5.65|#|#|#| THEN  3 With Confidence=0.9230769 and Coverage=0.8888889
+
+1:IF #|11.95,#|#|#|#,0.45| THEN  2 With Confidence=1.0 and Coverage=0.9375
+2:IF #|5.65,16.25|#|#|0.45,6.75| THEN  1 With Confidence=1.0 and Coverage=0.88148147
+3:IF #|#,5.65|#|#|1.45,#| THEN  3 With Confidence=1.0 and Coverage=0.8518519
+4:IF #|#|#|4.0,#|#| THEN  3 With Confidence=1.0 and Coverage=0.7777778
+5:IF #|#|3.2,#|#|#| THEN  2 With Confidence=1.0 and Coverage=0.6875
+6:IF #|4.0,11.95|#|#,4.0|#| THEN  1 With Confidence=0.9609375 and Coverage=0.9111111
+7:IF #|#,5.65|#|#|#| THEN  3 With Confidence=0.96 and Coverage=0.8888889
+
+1:IF #|11.95,#|#|#|#,0.45| THEN  2 With Confidence=1.0 and Coverage=0.90625
+2:IF #|#,5.65|#|#|2.25,#| THEN  3 With Confidence=1.0 and Coverage=0.8148148
+3:IF #|#|#|4.0,#|#| THEN  3 With Confidence=1.0 and Coverage=0.7777778
+4:IF #|16.25,#|#|#|#| THEN  2 With Confidence=1.0 and Coverage=0.625
+5:IF #|4.0,16.25|#|#|#| THEN  1 With Confidence=0.85987264 and Coverage=1.0
+6:IF #|#,6.4|#|1.05,#|#| THEN  3 With Confidence=0.78125 and Coverage=0.9259259
+
+1:IF #|11.95,#|#|#|#,0.45| THEN  2 With Confidence=1.0 and Coverage=0.9375
+2:IF #|#,5.449999999999999|#|#|2.25,#| THEN  3 With Confidence=1.0 and Coverage=0.7777778
+3:IF 112.5,#|#,6.4|#|#|#| THEN  3 With Confidence=1.0 and Coverage=0.7777778
+4:IF #|#,4.0|#|#|#| THEN  3 With Confidence=1.0 and Coverage=0.5925926
+5:IF #|6.55,11.95|#|#|#| THEN  1 With Confidence=0.98214287 and Coverage=0.8148148
+6:IF #|5.65,11.95|#|#,4.0|#| THEN  1 With Confidence=0.976 and Coverage=0.9037037
+7:IF #|#|#|#,4.0|#| THEN  1 With Confidence=0.7803468 and Coverage=1.0
+
+1:IF #|#|#|4.0,#|#| THEN  3 With Confidence=1.0 and Coverage=0.8888889
+2:IF #|5.449999999999999,15.65|#|#|0.45,7.949999999999999| THEN  1 With Confidence=1.0 and Coverage=0.8740741
+3:IF #|11.2,#|#|#|-0.25,0.45| THEN  2 With Confidence=1.0 and Coverage=0.78125
+4:IF 95.5,#|5.65,14.0|#|#,4.0|#| THEN  1 With Confidence=0.97727275 and Coverage=0.95555556
+5:IF #|#,5.65|#|#|#| THEN  3 With Confidence=0.9259259 and Coverage=0.9259259
+6:IF #|#|#|#|#,0.45| THEN  2 With Confidence=0.6888889 and Coverage=0.96875
+
+1:IF #|11.95,#|#|#|#,0.4| THEN  2 With Confidence=1.0 and Coverage=0.90625
+2:IF #|#|#|4.0,#|#| THEN  3 With Confidence=1.0 and Coverage=0.8148148
+3:IF #|#|3.2,#|#|#| THEN  2 With Confidence=1.0 and Coverage=0.625
+4:IF #|5.199999999999999,16.25|#,3.2|#|#| THEN  1 With Confidence=0.9121622 and Coverage=1.0
+5:IF #|#,6.6|#|1.05,#|#| THEN  3 With Confidence=0.7878788 and Coverage=0.962963
+

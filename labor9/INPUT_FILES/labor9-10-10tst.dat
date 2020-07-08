@@ -1,0 +1,6 @@
+2, 4.5, 4.0,?,?, 40,?,?, 4,?, 10, generous,?, half,?, full, good
+2, 4.5, 5.8,?,?, 35, ret_allw,?,?, yes, 11, below_average,?, full,?, full, good
+3, 3.5, 4.0, 4.6, none, 36,?,?, 3,?, 13, generous,?,?, yes, full, good
+2, 2.5, 2.5,?,?, 38, empl_contr,?,?,?, 10, average,?,?,?,?, bad
+1, 2.1,?,?, tc, 40, ret_allw, 2, 3, no, 9, below_average, yes, half,?, none, bad
+

@@ -1,0 +1,50 @@
+1:IF #|2.65,#|#|#|#|#|#|#|#|#|#|#|#|100|#|#| THEN  good With Confidence=1.0 and Coverage=0.72727275
+2:IF #|2.65,#|#|#|#|#|#|#|#|#|10.5,#|#|#|#|#|#| THEN  good With Confidence=0.96428573 and Coverage=0.8181818
+3:IF #|#,3.25|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.7222222 and Coverage=0.7222222
+
+1:IF #|2.65,#|#|#|#|#|#|#|#|#|10.5,#|#|10|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.90909094
+2:IF #|#|#, 2.0|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=1.0 and Coverage=0.11111111
+3:IF #|2.9,#|#|#|#|#|#|#|#|#|#|#|10|#|#|#| THEN  good With Confidence=0.96875 and Coverage=0.93939394
+4:IF #|#,2.65|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.9166667 and Coverage=0.6111111
+5:IF #|#|#|#|#|#|#|#|1.5,3.5|#|#|101|#|#|#|#| THEN  bad With Confidence=0.6363636 and Coverage=0.7777778
+
+1:IF #|#|2.25,#|#|#|#|100|#|1.5,#|10|#|#|#|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.75757575
+2:IF #|#,2.9|#|#|#|#|#|#|#|01|#|#|#|#|#|#| THEN  bad With Confidence=0.9230769 and Coverage=0.6666667
+3:IF #|#|2.25,#|#|#|#|110|#|#|#|10.5,#|#|#|#|#|#| THEN  good With Confidence=0.90625 and Coverage=0.8787879
+4:IF #|#,4.15|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.56666666 and Coverage=0.9444444
+
+1:IF #|#|#|#|#|#|#|#|#|#|#|#|01|#|#|#| THEN  bad With Confidence=1.0 and Coverage=0.3888889
+2:IF #|2.9,#|#|#|#|#|110|#|#|#|#|#|#|#|#|#| THEN  good With Confidence=0.93939394 and Coverage=0.93939394
+3:IF #|#|#|#|#|#|011|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.7 and Coverage=0.7777778
+4:IF #|#|#|#|#|#|110|#|#|#|#|#|#|#|#|#| THEN  good With Confidence=0.53333336 and Coverage=0.24242425
+
+1:IF #|3.25,#|#|#|#|#|#|#|#|#|#|#|10|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.8484849
+2:IF #|#,2.9|#|#|#|#|#|#|1.5,1.5|#|#|#|#|#|#|#| THEN  bad With Confidence=0.8888889 and Coverage=0.44444445
+3:IF #|#|2.25,#|#|#|#|#|6.0,#|2.5,#|#|#|#|10|#|#|#| THEN  good With Confidence=0.8611111 and Coverage=0.93939394
+4:IF #|#,2.9|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.8 and Coverage=0.6666667
+
+1:IF #|#,3.25|#,2.25|#|#|#|#|#|#|#|#,10.5|#|#|#|#|#| THEN  bad With Confidence=1.0 and Coverage=0.22222222
+2:IF #|2.65,#|#|#|#|#|#|#|#|#|#|#|10|#|#|#| THEN  good With Confidence=0.93939394 and Coverage=0.93939394
+3:IF #|#,2.65|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.85714287 and Coverage=0.6666667
+
+1:IF #|2.65,#|#|#|#|#|#|#|#|#|10.5,#|#|#|#|10|#| THEN  good With Confidence=1.0 and Coverage=0.8484849
+2:IF 3,#|#|#|#|#|#|#|#|#|#|10.5,#|#|#|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.3939394
+3:IF 3,#|#,3.25|#|#|110|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=1.0 and Coverage=0.2777778
+4:IF #|2.9,#|#|#|#|#|#|#|#|#|#|#|#|#|10|#| THEN  good With Confidence=0.90909094 and Coverage=0.90909094
+5:IF #|#,3.25|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.71428573 and Coverage=0.8333333
+
+1:IF #|#|#|#|#|#|010|#|#|#|10.5,#|#|#|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.7352941
+2:IF #|#,3.25|#|#|110|#|#|#|#|#|#,10.5|#|#|#|#|#| THEN  bad With Confidence=1.0 and Coverage=0.44444445
+3:IF #|#|2.25,#|#|#|#|110|#|2.5,#|#|#|#|#|#|#|110| THEN  good With Confidence=0.969697 and Coverage=0.9411765
+4:IF #|#,2.65|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.84615386 and Coverage=0.6111111
+5:IF #|#,4.55|#|#|110|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.5483871 and Coverage=0.9444444
+
+1:IF #|2.65,#|#|#|#|#|#|#|#|#|10.5,#|#|#|110|#|#| THEN  good With Confidence=1.0 and Coverage=0.8235294
+2:IF #|#,2.9|#|#|#|#|#|#|2.5,3.5|#|#|#|#|#|#|#| THEN  bad With Confidence=1.0 and Coverage=0.6111111
+3:IF #|2.9,#|#|#|#|#|#|#|#|#|#|001|#|#|#|#| THEN  good With Confidence=1.0 and Coverage=0.5588235
+4:IF #|#,2.9|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.8666667 and Coverage=0.7222222
+
+1:IF #|3.25,#|#|#|010| 40,#|#|#|1.5,#|#|9.5,10.5|#|#|011|#|011| THEN  bad With Confidence=1.0 and Coverage=0.22222222
+2:IF #|2.65,#|#|#|#|#|110|#|#|#|#|#|#|#|10|110| THEN  good With Confidence=0.9411765 and Coverage=0.9411765
+3:IF #|#,3.25|#|#|#|#|#|#|#|#|#|#|#|#|#|#| THEN  bad With Confidence=0.68421054 and Coverage=0.7222222
+

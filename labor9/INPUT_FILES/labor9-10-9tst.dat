@@ -1,0 +1,6 @@
+3, 3.5, 4.0, 4.6, tcf, 27,?,?,?,?,?,?,?,?,?,?, good
+3, 2.0, 3.0,?, tcf,?, empl_contr,?,?, yes,?,?, yes, half, yes,?, good
+3, 4.0, 5.0, 5.0, tc,?, empl_contr,?,?,?, 12, generous, yes, none, yes, half, good
+2, 4.0, 5.0,?, none, 40, none,?, 3, no, 10, below_average, no, none,?, none, bad
+2, 3.5, 4.0,?, none, 40,?,?, 2, no, 10, below_average, no, half,?, half, bad
+
