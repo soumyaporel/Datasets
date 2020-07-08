@@ -1,0 +1,22 @@
+197.0, toyota, gas, std, two, hatchback, rwd, front, 102.9, 183.5, 67.7, 52.0, 3016.0, dohc, six, 171.0, mpfi, 3.27, 3.35, 9.3, 161.0, 5200.0, 19.0, 24.0, 15998.0, 3
+?, mitsubishi, gas, turbo, two, hatchback, fwd, front, 95.9, 173.2, 66.3, 50.2, 2833.0, ohc, four, 156.0, spdi, 3.58, 3.86, 7.0, 145.0, 5000.0, 19.0, 24.0, 12629.0, 3
+153.0, mitsubishi, gas, turbo, two, hatchback, fwd, front, 96.3, 173.0, 65.4, 49.4, 2370.0, ohc, four, 110.0, spdi, 3.17, 3.46, 7.5, 116.0, 5500.0, 23.0, 30.0, 9959.0, 3
+?, bmw, gas, std, two, sedan, rwd, front, 103.5, 193.8, 67.9, 53.7, 3380.0, ohc, six, 209.0, mpfi, 3.62, 3.39, 8.0, 182.0, 5400.0, 16.0, 22.0, 41315.0, 0
+?, audi, gas, std, four, wagon, fwd, front, 105.8, 192.7, 71.4, 55.7, 2954.0, ohc, five, 136.0, mpfi, 3.19, 3.4, 8.5, 110.0, 5500.0, 19.0, 25.0, 18920.0, 1
+65.0, toyota, gas, std, four, sedan, fwd, front, 102.4, 175.6, 66.5, 54.9, 2326.0, ohc, four, 122.0, mpfi, 3.31, 3.54, 8.7, 92.0, 4200.0, 29.0, 34.0, 8948.0, -1
+?, volkswagen, gas, std, four, wagon, fwd, front, 100.4, 183.1, 66.9, 55.1, 2563.0, ohc, four, 109.0, mpfi, 3.19, 3.4, 9.0, 88.0, 5500.0, 25.0, 31.0, 12290.0, 0
+103.0, volvo, gas, std, four, sedan, rwd, front, 104.3, 188.8, 67.2, 56.2, 2935.0, ohc, four, 141.0, mpfi, 3.78, 3.15, 9.5, 114.0, 5400.0, 24.0, 28.0, 15985.0, -2
+134.0, toyota, gas, std, two, hatchback, rwd, front, 98.4, 176.2, 65.6, 52.0, 2551.0, ohc, four, 146.0, mpfi, 3.62, 3.5, 9.3, 116.0, 4800.0, 24.0, 30.0, 9989.0, 2
+102.0, subaru, gas, std, four, sedan, fwd, front, 97.2, 172.0, 65.4, 52.5, 2190.0, ohcf, four, 108.0, 2bbl, 3.62, 2.64, 9.5, 82.0, 4400.0, 28.0, 33.0, 7775.0, 0
+115.0, mazda, gas, std, four, sedan, fwd, front, 98.8, 177.8, 66.5, 55.5, 2410.0, ohc, four, 122.0, 2bbl, 3.39, 3.39, 8.6, 84.0, 4800.0, 26.0, 32.0, 10245.0, 0
+94.0, volkswagen, diesel, turbo, four, sedan, fwd, front, 97.3, 171.7, 65.5, 55.7, 2319.0, ohc, four, 97.0, idi, 3.01, 3.4, 23.0, 68.0, 4500.0, 37.0, 42.0, 9495.0, 2
+128.0, nissan, gas, std, two, sedan, fwd, front, 94.5, 165.3, 63.8, 54.5, 1951.0, ohc, four, 97.0, 2bbl, 3.15, 3.29, 9.4, 69.0, 5200.0, 31.0, 37.0, 7299.0, 1
+128.0, nissan, diesel, std, two, sedan, fwd, front, 94.5, 165.3, 63.8, 54.5, 2017.0, ohc, four, 103.0, idi, 2.99, 3.47, 21.9, 55.0, 4800.0, 45.0, 50.0, 7099.0, 1
+74.0, volvo, gas, std, four, wagon, rwd, front, 104.3, 188.8, 67.2, 57.5, 3042.0, ohc, four, 141.0, mpfi, 3.78, 3.15, 9.5, 114.0, 5400.0, 24.0, 28.0, 16515.0, -1
+158.0, audi, gas, std, four, sedan, fwd, front, 105.8, 192.7, 71.4, 55.7, 2844.0, ohc, five, 136.0, mpfi, 3.19, 3.4, 8.5, 110.0, 5500.0, 19.0, 25.0, 17710.0, 1
+125.0, mitsubishi, gas, std, four, sedan, fwd, front, 96.3, 172.4, 65.4, 51.6, 2365.0, ohc, four, 122.0, 2bbl, 3.35, 3.46, 8.5, 88.0, 5000.0, 25.0, 32.0, 6989.0, 1
+81.0, chevrolet, gas, std, four, sedan, fwd, front, 94.5, 158.8, 63.6, 52.0, 1909.0, ohc, four, 90.0, 2bbl, 3.03, 3.11, 9.6, 70.0, 5400.0, 38.0, 43.0, 6575.0, 0
+115.0, mazda, gas, std, four, sedan, fwd, front, 98.8, 177.8, 66.5, 55.5, 2410.0, ohc, four, 122.0, 2bbl, 3.39, 3.39, 8.6, 84.0, 4800.0, 26.0, 32.0, 8495.0, 0
+94.0, volkswagen, gas, std, four, sedan, fwd, front, 97.3, 171.7, 65.5, 55.7, 2275.0, ohc, four, 109.0, mpfi, 3.19, 3.4, 9.0, 85.0, 5250.0, 27.0, 34.0, 8495.0, 2
+145.0, jaguar, gas, std, four, sedan, rwd, front, 113.0, 199.6, 69.6, 52.8, 4066.0, dohc, six, 258.0, mpfi, 3.63, 4.17, 8.1, 176.0, 4750.0, 15.0, 19.0, 32250.0, 0
+
